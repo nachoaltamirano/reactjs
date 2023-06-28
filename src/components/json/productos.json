@@ -1,0 +1,227 @@
+[
+    {
+        "idp":1,
+        "nombre":"AK-47 | Pizarra",
+        "precio":1048,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV08ykm4aOhOT9PLXQmlRc7cF4n-SP8dyhiwK1_xU4ajygIdSdJgVoMlzRrFTqlea5hpK66ZvNmnI3vHUk4WGdwUJBbIpZ4g",
+        "descripcion":"a",
+        "categoria":"ak-47"
+        
+    },
+    {
+        "idp":2,
+        "nombre":"AK-47 | Rat Rod",
+        "precio":1791,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV09K_loKHkuXLP7LWnn8fucYl2rvFptWgigLm8xI9Zm_1I4SWe1NrMlzU_FW-lem5g5a_6JrMzWwj5HfI4UkLHw",
+        "descripcion":"a",
+        "categoria":"ak-47"
+        
+    },
+    {
+        "idp":3,
+        "nombre":"AK-47 | Órbita MK01",
+        "precio":3215,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJegJB49C5mpnbxsjmNr_um25V4dB8xLnH9o3w3wHmqhFrYGGlJ4fGdQQ6MgnQ_FS8lb_nhJC06MjOzyBruiE8pSGK4ZbPlSA",
+        "descripcion":"a",
+        "categoria":"ak-47"
+        
+    },
+    {
+        "idp":4,
+        "nombre":"AK-47 | Laminado azul",
+        "precio":3145,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhoyszJemkV4N27q4KHgvLLP7LWnn8fscMpj-qUpNymjVK1_hFrMmmhJ4-Ue1c_YgrUrgS5ybvu18K6vZ-YyWwj5HdyMRX4FA",
+        "descripcion":"a",
+        "categoria":"ak-47"
+        
+    },
+    {
+        "idp":5,
+        "nombre":"AK-47 | Planos caóticos",
+        "precio":5895,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08y5nY6fqPP9ILrDhGpI18l4jeHVu4702FLiqBA4MDv6JYHEIwRsNQ3Srwe-wu_t1pO76JrPyiNlu3Qh4X7D30vg5znacIE",
+        "descripcion":"a",
+        "categoria":"ak-47"
+        
+    },
+    {
+        "idp":6,
+        "nombre":"AK-47 | Emperatriz",
+        "precio":7188,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV09m7hJKOhOTLPr7Vn35cppMh2L2VrN-h2geyqhc-MD3xJYecIANrMwvZ8wK8wr3nhJC6vJ2dy3B9-n51Yx1fd-M",
+        "descripcion":"a",
+        "categoria":"ak-47"
+        
+    },
+    {
+        "idp":7,
+        "nombre":"AK-47 | Revolución de neón",
+        "precio":7335,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV0924lZKIn-7LPr7Vn35cppwl3OyVp9Txi1Gy_0Y9MDjyd4fGJFVsZFGG-gC5xLvo1pfouJ3Bzyd9-n51-K95osI",
+        "descripcion":"a",
+        "categoria":"ak-47"
+        
+    },
+    {
+        "idp":8,
+        "nombre":"M4A4 | Ciberseguridad",
+        "precio":4182,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09-vloWZh-L6OITck29Y_cg_2bHApN-s2Ffl-0ptZW_xLdWRewA7Y1rW-1O2lenq0cO5upTImCdgsz5iuyjxE-Y0-A",
+        "descripcion":"a",
+        "categoria":"m4"
+        
+    },
+    {
+        "idp":9,
+        "nombre":"M4A4 | Espacio inhóspito",
+        "precio":8453,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09izh4-HluPxDKjBl2hU18l4jeHVu93zi1aw_hZtYW2icYHGdwJtN1nSr1foxui8gZW96ZvPznMyvSMq4XrD30vgc83x0v4",
+        "descripcion":"a",
+        "categoria":"m4"
+    },
+    {
+        "idp":10,
+        "nombre":"M4A4 StatTrak™ | 龍王 (Rey dragón)",
+        "precio":10530,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW0924l4WYg-X1P4Tdn2xZ_ItyiO2Yot-n3gztrUduMW6icdWcc1RqM1HR_FfswLu6gZe4tZrNmiBkpGB8smM7Zio1",
+        "descripcion":"a",
+        "categoria":"m4"
+        
+    },
+    {
+        "idp":11,
+        "nombre":"M4A4 | Neonoir",
+        "precio":5116,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09Kzm7-FmP7mDLfYkWNFpsch2evFo9Wl2lflr0RtZzilJNTBdgE3ZAyDr1nrx-vs0cK9vsmamnt9-n51UgTl8ms",
+        "descripcion":"a",
+        "categoria":"m4"
+        
+    },
+    {
+        "idp":12,
+        "nombre":"M4A4 StatTrak™ | Daimio malvado",
+        "precio":2778,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszFJTwW09mgnYy0k_b9PqLeqWdY781lxOqTpdT3iQbh-RBsN2H6JITGI1c3ZluB_FK6kry51J-4uZjJwSNkuyY8pSGKLxf1Y6o",
+        "descripcion":"a",
+        "categoria":"m4"
+        
+    },
+    {
+        "idp":13,
+        "nombre":"Cuchillo clásico ★ | Malla de safari",
+        "precio":41616,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTi5S09Gzh4i0g_b6DLPUl31IpsYnjO-Zptrw0FWyrhJvMm72JI_AJAM3NVqCqVXokOzrgJG7vJrBzCZ9-n51FZ77WlY",
+        "descripcion":"a",
+        "categoria":"cuchillo"
+        
+    },
+    {
+        "idp":14,
+        "nombre":"Cuchillo Bowie ★ | Mano alzada",
+        "precio":41616,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwObaZzRU7dCJlo-cnvLLMrbum2pD48B1tfzRytWlt1mxrxopPnemJI6WcA45Mw7RrgK7lbu908C6uJ-bn3Zk6SYi43vUzhW-hBtPb-w8m7XAHhg6hcy2",
+        "descripcion":"a",
+        "categoria":"cuchillo"
+    
+    },
+    {
+        "idp":15,
+        "nombre":"Cuchillo clásico ★ | Azul metalizado",
+        "precio":49776,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ODbTjxT0966gYWPqPrxN7LEmyUA6pBwjLqS892sjFHt-0BkYWjyddXAcVQ-ZV_Y-lO-xe3m0ZS8756c1zI97R6hgmix",
+        "descripcion":"a",
+        "categoria":"cuchillo"
+        
+    },
+    {
+        "idp":16,
+        "nombre":"Cuchillo Alfanje ★ | Tela escarlata",
+        "precio":50592,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJnJm0gPL2IITck29Y_cg_iOiUoNSh0Qe1rUFtYGynJNWddAdvZQ2Gq1m5k7_m1JS5vc6bzidlvT5iuyh9kEOwaQ",
+        "descripcion":"a",
+        "categoria":"cuchillo"
+        
+    },
+    {
+        "idp":17,
+        "nombre":"Cuchillo del Cazador ★ | Doppler",
+        "precio":93840,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20k_jkI7fUhFRB4MRij7r--YXygED6qUVkNW_3IYCXdAc4ZwvZ8wTql-3vgcTq7cnOnXM1siUj537UnBblgQYMMLKO8np86Q",
+        "descripcion":"a",
+        "categoria":"cuchillo"
+        
+    },
+    {
+        "idp":18,
+        "nombre":"Cuchillo Alfanje ★ | Doppler gamma",
+        "precio":88944,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20kPb5PrrukmRB-Ml0mNbR_Y3mjQWLpxo7Oy3tIIGRI1c5YQuG_VO9xei50MO1tc-YnXRmvXEgsX3aykezhh9KaeM60eveFws9D4cWAA",
+        "descripcion":"a",
+        "categoria":"cuchillo"
+        
+    },
+    {
+        "idp":19,
+        "nombre":"AWP | Aqueronte",
+        "precio":1126,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957P3dcjFH7c6Jh4uem_vnDKnUkmld_cBOhuDG_Zi73gTlqhJuYD_6LYDGdg4-Z1zQrFW9yLvvgMC-vJmazCA3vXZzsy7Zlgv3308OIiH5Ag",
+        "descripcion":"a",
+        "categoria":"awp"
+        
+    },
+    {
+        "idp":20,
+        "nombre":"AWP | Mortis",
+        "precio":709,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJG6d2inL-GkvP9JrafzzxUvMF0ib6Z9NSg0Abg_kc9MGn2cdeSclA2Ml_R_AK9xOvrhsC76YOJlyWzRFT-mw",
+        "descripcion":"a",
+        "categoria":"awp"
+        
+    },
+    {
+        "idp":21,
+        "nombre":"AWP | Sueño febril",
+        "precio":4141,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJS_8W1nI-bluP8DLfYkWNFppQgj7yV9Nqi2Fbj_Eo5Ym72I9XGJwc2NAnS_1Pqxu6615W575uYznd9-n51iddPieY",
+        "descripcion":"a",
+        "categoria":"awp"
+        
+    },
+    {
+        "idp":22,
+        "nombre":"AWP | Atheris",
+        "precio":4508,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJU5cyzhr-HnvD8J_WDkm4GvZEh0uiW9tms3Qfl-Rdpa2vzJ9CQcVU5YgnTq1C2l7--gce_ot2XnpAZ32EI",
+        "descripcion":"a",
+        "categoria":"awp"
+        
+    },
+    {
+        "idp":23,
+        "nombre":"AWP | Hiperbestia",
+        "precio":6919,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJK9cyzhr-JkvbnJ4TZk2pH8Ysgib6UrY_22wyyr0I_Z2nzLIfBdgI8Yg3V81ntx7jr05G7vcjAyXpmpGB8soCFPHnF",
+        "descripcion":"a",
+        "categoria":"awp"
+        
+    },
+    {
+        "idp":24,
+        "nombre":"Vendas de cuero ★ | Cinta adhesiva",
+        "precio":22848,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DfVlxgLQFFibKkJQN3wfLYYgJK7dKyg5KKh8j4NrrFnm5D8fp1n-rV4Y3ljWu8rhIqKnf0IdKQdVNqY1nY81O5xbvvhsC175rKm3c37ilw7SndmBezgR5PPOE6m7XAHrcGxHMC",
+        "descripcion":"a",
+        "categoria":"guantes"
+        
+    },
+    {
+        "idp":25,
+        "nombre":"Desert Eagle | Industria mecánica",
+        "precio":2068,
+        "imagen":"https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PTbTjlH7du6kb-GkvT8MoTdn2xZ_It02rHCpIrx0APk8hVqMWr1LI-QdFU6YAvW8gO_xr3ugMDqup7Mz3FmpGB8st6VkheS",
+        "descripcion":"a",
+        "categoria":"pistolas"
+        
+    }
+
+]
